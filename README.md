@@ -1,6 +1,8 @@
 # Keras model deploying with Java
 
-Starting from another project I made to classify images using Keras (https://github.com/marcogdepinto/ScenarioClassifier), I worked on deepening my Java knowledge creating a class to consume the model already trained in Python.
+Starting from another project I made to classify images using Keras (https://github.com/marcogdepinto/ScenarioClassifier), I had the idea to work on a Deploy class in Java. 
+
+Deploy means placing the model in production to consume it: this class can be, for example, included in a Spring Boot Application and used via API calls.
 
 The library used is [DeepLearning4j](https://deeplearning4j.org/).
 
