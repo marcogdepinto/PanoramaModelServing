@@ -4,7 +4,7 @@ Starting from another project I built to classify images using Keras (https://gi
 
 The library used is [DeepLearning4j](https://deeplearning4j.org/).
 
-# Output example
+# Output
 
 ![city](https://github.com/marcogdepinto/Java-KerasDLModelServing/blob/master/city2.jpg)
 
@@ -16,6 +16,8 @@ Passing the above picture as input, the class will return the following informat
 [1.0, 0.0, 0.0, 0.0, 0.0, 0.0]
 city
 ```
+
+**Output explaination**
 
 - The first line is an array with the labels.
 - The second line includes an array with the predicted percentage per class.
