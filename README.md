@@ -17,7 +17,7 @@ Passing the above picture as input, the class will return the following informat
 city
 ```
 
-The first line is an array with the labels.
-The second line includes an array with the predicted percentage per class.
-The third line is given as output to match the labels and the array of predictions.
-The forth line is the prediction in human-readable language.
+- The first line is an array with the labels.
+- The second line includes an array with the predicted percentage per class.
+- The third line is given as output to match the labels and the array of predictions.
+- The forth line is the prediction in human-readable language.
