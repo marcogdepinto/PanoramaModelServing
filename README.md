@@ -17,7 +17,7 @@ Passing the above picture as input, the class will return the following informat
 city
 ```
 
-**Output explaination**
+**Output explanation**
 
 - The first line is an array with the labels.
 - The second line includes an array with the predicted percentage per class.
