@@ -4,6 +4,10 @@ Starting from another project I made to classify images using Keras (https://git
 
 The library used is [DeepLearning4j](https://deeplearning4j.org/).
 
+# Model
+
+Please download the model from [this link](https://drive.google.com/open?id=1jPDQcqQeh7r-_yQgn9jJzc8yVXEOgkvk) (it exceeds 100 megabytes so it can't stay on Github) and place it in the resource folder.
+
 # Output
 
 ![city](https://github.com/marcogdepinto/Java-KerasDLModelServing/blob/master/city2.jpg)
