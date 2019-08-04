@@ -2,7 +2,7 @@
 
 Starting from another project I made to classify images using Keras (https://github.com/marcogdepinto/ScenarioClassifier), I had the idea to work on a Deploy class in Java. 
 
-Deploy means placing the model in production to consume it: this class can be, for example, included in a Spring Boot Application and used via API calls.
+Deploy means placing the model in production: this class can be, for example, included in a Spring Boot Application and consumed via API calls.
 
 The library used is [DeepLearning4j](https://deeplearning4j.org/).
 
